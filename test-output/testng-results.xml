@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-23T14:09:36 EET" name="Default suite" finished-at="2025-04-23T14:09:51 EET" duration-ms="14331">
+    <groups>
+    </groups>
+    <test started-at="2025-04-23T14:09:36 EET" name="Default test" finished-at="2025-04-23T14:09:51 EET" duration-ms="14331">
+      <class name="testcases.Apptest">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:testcases.Apptest@69653e16]" started-at="2025-04-23T14:09:36 EET" name="mySetup" finished-at="2025-04-23T14:09:48 EET" duration-ms="11525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="RadioButton()[pri:1, instance:testcases.Apptest@69653e16]" started-at="2025-04-23T14:09:48 EET" name="RadioButton" finished-at="2025-04-23T14:09:48 EET" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RadioButton -->
+        <test-method signature="Dynamic_Dropdown()[pri:2, instance:testcases.Apptest@69653e16]" started-at="2025-04-23T14:09:48 EET" name="Dynamic_Dropdown" finished-at="2025-04-23T14:09:51 EET" duration-ms="2274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dynamic_Dropdown -->
+        <test-method signature="selectButton()[pri:3, instance:testcases.Apptest@69653e16]" started-at="2025-04-23T14:09:51 EET" name="selectButton" finished-at="2025-04-23T14:09:51 EET" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectButton -->
+      </class> <!-- testcases.Apptest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
