@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.Apptest">
+      <class name="almusafer.almusafer">
         <methods>
-          <include name="staticdropdown"/>
-          <include name="mySetup"/>
+          <include name="mysetup"/>
+          <include name="selectadultsnumber"/>
         </methods>
-      </class> <!-- testcases.Apptest -->
+      </class> <!-- almusafer.almusafer -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
